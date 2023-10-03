@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Dr.Smith",
+        "specialist": "Paediatrician",
+        "location": "Chennai",
+        "contact": "smith@gmail.com",
+        "description": "A paediatrician is a medical doctor who deals with the medical treatment of babies, children, and teenagers. ",
+        "images": [
+            {
+                "image":"/images/doctor/m_doc.jpg"
+            }]
+    },
+    {
+        "name": "Dr.Johnson",
+        "specialist": "ENT Specialist",
+        "location": "Madurai",
+        "contact": "johnson@gmail.com",
+        "description": "ENT Specialists specialize in treating disorders and other issues related to the ear, nose, throat, and related head and neck",
+        "images": [
+            {
+                "image":"/images/doctor/m_doc.jpg"
+            }]
+    },
+    {
+        
+        "name": "Dr.Erick",
+        "specialist": "Cardiologist",
+        "location": "Coimbatore",
+        "contact": "erick@gmail.com",
+        "description": "Cardiologists are doctors who specialize in treating people with heart problems",
+        "images": [
+            {
+                "image":"/images/doctor/m_doc.jpg"
+            }]
+    },
+    {
+        "name": "Dr.Jenny",
+        "specialist": "Gynecologist",
+        "location": "Erode",
+        "contact": "jenny@gmail.com",
+        "description": "Gynecologist is responsible for the treatment for infertility, gynaecological diseases,",
+        "images": [
+            {
+                "image":"/images/doctor/f_doctor.jpg"
+            }]
+    },
+    {
+        "name": "Dr.Eve",
+        "specialist": "Dentist",
+        "location": "Tripur",
+        "contact": "eve@gmail.com",
+        "description": "Dentist is a doctor who practices dentistry that involves the mouth, teeth, gums, and related areas.",
+        "images": [
+            {
+                "image":"/images/doctor/f_doctor.jpg"
+            }]
+    },
+    {
+        "name": "Dr.Rose",
+        "specialist": "Internal Medicine",
+        "location": "Karur",
+        "contact": "rose@gmail.com",
+        "description": "Internal medicine, also known as general internal medicine in Commonwealth nations, is a medical specialty for medical doctors focused on the prevention, diagnosis, and treatment of internal diseases. ",
+        "images": [
+            {
+                "image":"/images/doctor/f_doctor.jpg"
+            }]
+    },
+    {
+        "name": "Dr.Mithra",
+        "specialist": "Neurology",
+        "location": "Madurai",
+        "contact": "mithra@gmail.com",
+        "description": "Neurology is the branch of medicine dealing with the diagnosis and treatment of all categories of conditions and disease involving the nervous system",
+        "images": [
+            {
+                "image":"/images/doctor/f_doctor.jpg"
+            }]
+    },
+    {
+        "name": "Dr.Angel",
+        "specialist": "Psychiatry",
+        "location": "Coimbatore",
+        "contact": "angel@gmail.com",
+        "description": "Psychiatry is the medical specialty devoted to the diagnosis, prevention, and treatment of deleterious mental conditions",
+        "images": [
+            {
+                "image":"/images/doctor/f_doctor.jpg"
+            }]
+    },
+    {
+        "name": "Dr.RooseVelt",
+        "specialist": "Oncologist",
+        "location": "Erode",
+        "contact": "roosevelt@gmail.com",
+        "description": "Oncology is a branch of medicine that deals with the study, treatment, diagnosis and prevention of cancer",
+        "images": [
+            {
+                "image":"/images/doctor/m_doc.jpg"
+            }]
+    },
+    {
+        "name": "Dr.Ronald",
+        "specialist": "Dentist",
+        "location": "Tripur",
+        "contact": "ron@gmail.com",
+        "description": "Dentist is a doctor who practices dentistry that involves the mouth, teeth, gums, and related areas.",
+        "images": [
+            {
+                "image":"/images/doctor/m_doc.jpg"
+            }]
+    }
+]
